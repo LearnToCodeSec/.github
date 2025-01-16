@@ -215,7 +215,7 @@ Since we work together, we have some unique advantages in learning to code:
 I've forked a few repositories that might help you with some initial project ideas:
 
 - Our [python-coding-fundamentals](https://github.com/LearnToCodeSec/python-coding-fundamentals) repository contains basic concepts and exercises
-- The [beginner-projects]https://github.com/LearnToCodeSec/beginner-projects) repository lists potential projects you can start working on now
+- The [beginner-projects](https://github.com/LearnToCodeSec/beginner-projects) repository lists potential projects you can start working on now
 
 ### Getting Help
 
