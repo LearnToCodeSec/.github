@@ -183,7 +183,7 @@ Think of it like a checklist before publishing a book:
 2. Set up your GitHub account
 3. Clone this repository:
    ```bash
-   git clone https://github.com/your-org/your-repo.git
+   git clone https://github.com/LearnToCodeSec/your-repo.git
    ```
 4. Create a new branch for your work
 5. Make changes and commit them
