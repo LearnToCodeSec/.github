@@ -189,16 +189,16 @@ Think of it like a checklist before publishing a book:
 5. Make changes and commit them
 6. Push your changes and create a Pull Request
 
-Remember, everyone was a beginner once. Don't hesitate to ask questions in issues or pull request comments. We're here to help you succeed!
+Remember, everyone was a beginner once. Don't hesitate to ask questions in issues or pull request comments.
 
 ## Getting Started Together
 
-Since we work together, we have some unique advantages in learning to code:
+Since we work together, we have some advantages in learning to code:
 
 1. **Hands-on Support**
    - We can pair program during lunch breaks
-   - Quick desk-side help when you're stuck
-   - Regular check-ins to track progress
+   - Quick desk-side help when you're stuck on a problem
+   - A discord channel to keep up to date with what people are working on
 
 2. **Workplace Projects**
    - Practice with real-world scenarios from our daily work
@@ -212,10 +212,11 @@ Since we work together, we have some unique advantages in learning to code:
 
 ### Resources and Support
 
-I've forked a few repositories that might help you with some initial project ideas:
+I've forked a few repositories that might help you with some initial project ideas and concepts:
 
 - Our [python-coding-fundamentals](https://github.com/LearnToCodeSec/python-coding-fundamentals) repository contains basic concepts and exercises
 - The [beginner-projects](https://github.com/LearnToCodeSec/beginner-projects) repository lists potential projects you can start working on now
+- The [project-based-learning](https://github.com/LearnToCodeSec/project-based-learning) and [Projects](https://github.com/LearnToCodeSec/Projects) repos to help you with some project ideas
 
 ### Getting Help
 
